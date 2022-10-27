@@ -1,0 +1,9 @@
+Steps to upload certificates on gitHub
+
+1. Download and save all the certificates in this directory
+2. Open command prompt in this directory
+3. git add .
+4. git commit -m "upload certificates"
+5. git push
+
+CONGRATES!!! You are all set!!
